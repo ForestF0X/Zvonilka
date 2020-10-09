@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Звонилка</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_meets">Встречи</string>
+    <string name="title_chats">Чаты</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_settings">Настройки</string>
+    <string name="alertForgotPass">Вы собираетесь сбросить пароль своей учетной записи.\nВы уверены что хотите это сделать?</string>
+    <string name="chats_empty_text">Полковнику никто не пишет...\nНо мы не гордые,\nсами напишем,\nнадо лишь начать чат!</string>
+</resources>
